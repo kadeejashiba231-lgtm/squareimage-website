@@ -365,3 +365,6 @@ section {
   padding: 8px 14px;
   border-radius: 6px;
 }
+.contact-inner a {
+  color: #A65E00;
+}
